@@ -51,7 +51,6 @@ class Contact extends React.Component{
 							        <textarea rows="4" className="form-control" id="comments"></textarea>
 							      </div>
 							    </div>
-
 							    <button type="submit" className="btn btn-primary"><i className="fa fa-envelope" aria-hidden="true"></i> Submit Form</button>
 						    </div>
 						    
