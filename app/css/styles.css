@@ -1,0 +1,119 @@
+/*
+Bootstrap 4 with React - Free Template
+by Shaheed Muttaqi
+http://shahcreative.com
+shah@shahcreative.com
+*/
+
+
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body{
+    position: relative !important;
+    min-height: 100% !important;
+    margin:0;
+	padding-top:40px !important;
+    font-family: BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+section{
+    position: relative;
+    height: 100%;
+}
+ul{
+	list-style: none;
+}
+.jumbotron{
+	background-image: url("../images/pattern-abstract-honeycomb-metal.jpg");
+	background-blend-mode: overlay;
+	text-align: center;
+}
+.jumbotron h4{
+	margin-top: 30px;
+}
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+.nav-pills .nav-link {
+    padding: .1em 1em; 
+}
+.container-fluid{
+	padding:20px;
+}
+.content{
+    padding-top:40px;
+    padding-bottom:30px;
+ }
+.light{
+	background-color:#fff;
+	color:#111;
+}
+.dark{
+	background-color:#111;
+	color:#fff;
+}
+.card-override{
+    border: 0px solid rgba(0,0,0,.125) !important;
+    text-align: center !important;
+}
+.img-holder{
+    background-color: #999;
+    width: 100%;
+    height: 250px;
+    margin-bottom: 15px;
+}
+.img-holder-sm{
+    background-color: #999;
+    margin-bottom: 15px;
+    width: 120px;
+    height: 120px;
+}
+.card-img-overlay{
+    color:#fff;
+}
+.img-overlay{
+    width:318px;
+    height:400px;
+    background-color: #333;
+}
+.icon-holder {
+	display: block;
+    border-radius: 30px;
+    border: solid 2px #0275d8;
+    color: #0275d8;
+    width: 60px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.footer{
+    min-height:40px;
+    width: 100%;
+    right: 0;
+    bottom: 0px;
+    left: 0;
+	background-color: #0275d8 !important;
+    color: #fff;
+    padding: 20px 0 20px 0;
+    text-align: center;
+}
+.footer a{
+	color:#fff;
+}
+.footer-brand{
+    text-align: center;
+    font-size: 1.7em;
+    font-weight: bold;
+    border-bottom: solid 1px #fff;
+    padding-bottom: 10px;
+}
