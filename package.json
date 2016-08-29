@@ -1,7 +1,7 @@
 {
-  "name": "react_bootstrap4_cards",
+  "name": "react_bootstrap4_template",
   "version": "1.0.0",
-  "description": "Bootstrap4 cards made as React components",
+  "description": "Bootstrap4 template made with React and Webpack",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
