@@ -14,8 +14,8 @@ class Navbar extends React.Component{
 								<li className="nav-item"><Link className="nav-link" to="contact"> Contact</Link></li>
 							</ul>
 						</div>
+						<button className="navbar-toggler hidden-sm-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar" aria-controls="exCollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">&#9776;</button>
 					</div>
-					<button className="navbar-toggler hidden-sm-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar" aria-controls="exCollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation">&#9776;</button>
 				</nav>
 
 		)
