@@ -11,7 +11,7 @@ The ```$ webpack-dev-server``` command will allow you to preview the template us
 
 The webpack config also makes use of environment variables. They are split into Dev and Production.
 
-Use ``` $ NODE_ENV=production webpack -p ``` for a production (minified, optimized) build.
+Use ``` $ NODE_ENV=production webpack -p ``` for a production build (minified, optimized).
 
 I wrote this primarily as a first pass to use as a boilerplate for other themes. 
 
