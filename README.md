@@ -7,17 +7,11 @@ This is a simple template that works with react, react-router, webpack and boots
 
 ### Usage
 
-The webpack-dev-server command will allow you to preview the template using a browser (via localhost:8080).
-
-```
-$ webpack-dev-server
-```
+The ```$ webpack-dev-server``` command will allow you to preview the template using a browser (via localhost:8080).
 
 The webpack config also makes use of environment variables. They are split into Dev and Production.
 
-
-Use ```bash $ NODE_ENV=production webpack -p ``` for a production (minified, optimized) build.
-
+Use ``` $ NODE_ENV=production webpack -p ``` for a production (minified, optimized) build.
 
 I wrote this primarily as a first pass to use as a boilerplate for other themes. 
 
